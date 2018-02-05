@@ -1,4 +1,4 @@
-![alt text](http://res.cloudinary.com/loristeeth/image/upload/c_scale,w_800/v1510175135/tm_big_logo_wxtnbt.png "Bitcoin code vortex")
+![alt text](https://user-images.githubusercontent.com/32912678/35784331-37a7f8be-09e4-11e8-81d9-db255096ff6a.png "Overview Diagram")
 # Meld Mining
 ### Cloud mining that reduces fraud and provides more control to customers. 
 
@@ -32,8 +32,7 @@ but the higher the block reward).
 ---
 # Major Components
 There are three participants in meld mining.
-
-![Diagram](https://user-images.githubusercontent.com/32912678/35783537-fd182474-09d6-11e8-9ebb-0e17a95fccac.png)Format: ![Alt Text](url)
+![alt text](https://user-images.githubusercontent.com/32912678/35784331-37a7f8be-09e4-11e8-81d9-db255096ff6a.png "Overview Diagram")
 
 ## Meld Mining Coordinator
 This service coordinates mining
@@ -58,7 +57,7 @@ perform calculations to discover a
 bitcoin block using nonces they select.
 
 # How it works
-
+![Diagram](https://user-images.githubusercontent.com/32912678/35783537-fd182474-09d6-11e8-9ebb-0e17a95fccac.png)Format: ![Alt Text](url)
 ## Step 1
 Miners purchase a range of nonces
 that will be mined.
